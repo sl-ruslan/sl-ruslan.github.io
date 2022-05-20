@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav {
+    margin-left: 5%;
+
+
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+@media screen and (max-width: 1500px){
+    nav{
+        margin-top: 10px;
+        margin-left: 5%;
+    }  
+}
+
+@media screen and (max-width: 1240px){
+    nav{
+        margin-top: 10px;
+        margin-left: 5%;
+    }  
+    .search--two {
+        margin-top: -20% !important;
+    } 
+    .secondary--content button {
+        font-size: 15pt !important;
+    }
+    .template--name {
+        font-size: 18pt !important;
+    }
+}

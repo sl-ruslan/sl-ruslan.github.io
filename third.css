@@ -1,0 +1,60 @@
+.rama {
+    display: flex;
+    height: 740px;
+
+}
+.ram {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.space_two1 {
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.space_two2 {
+    height: 20px;
+}
+
+.png {
+    width: 225px;
+    height: 60px;
+
+}
+
+
+.space_two3 {
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ram1 {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.space_two4 {
+    display: flex;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
